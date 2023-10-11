@@ -137,6 +137,45 @@ sns.heatmap(df.corr(),annot=True)
 ![274193361-69f3c8ec-83db-4a92-89f7-2d05c405e68f](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/744d553c-7c7d-43e0-8b19-aed6c9be60dc)
 
 ## Correlation coefficient interpretation:
+![274193395-14f7335d-06bc-4674-b563-72a3553f445a](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/a8ee1181-e469-48e4-bb60-066753aa88b6)
+
+## Heat map:
+![274193510-ebdb8426-8858-4158-9321-c2d1549b7d14](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/0edd3ec8-b215-4faa-9e62-35abae05cac1)
+
+## DIABETES
+## DATA FRAME FOR DIABETES:
+![274193621-3e9571ab-b205-4569-a67f-e08f4a9a3ae3](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/70ae10a9-1a5d-478c-b3e1-d016a73eb827)
+
+## Data information:
+![274193648-b1388c3e-4a1b-4daa-a8b2-667fff07a620](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/d3be9e03-a1bc-4531-8e47-3cd3cdb39dac)
+
+## Data describing:
+![274193670-f9e9f6cb-ebf8-4664-8417-af575abe47f0](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/900756ec-e2cd-496d-ba4c-10152153f3cb)
+
+## Sum of null values:
+![274193792-3f17eb04-3503-4e8b-945c-dd126bcfe267](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/737d5a4c-74d5-491c-a5e3-de9d80b6d1c1)
+
+## Scatter plot:
+![274193828-e3515497-52df-419b-808f-52b574d8dc7b](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/49104079-ef7c-4271-b6ee-22f5d8130fa4)
+![274193875-443fedbb-6256-4272-8271-2ec2a5017545](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/24614851-3a46-401f-b16a-e78d72616985)
+
+## Bar plot:
+![274193922-548a0c23-90f5-4711-a9e1-2133d87de497](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/a399d576-9758-4dcb-a6c7-fb84a3e9a4b7)
+![274193982-60e286da-3a66-48a8-a0ff-b5b38c49282c](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/abaea62f-1f32-4513-8743-645b9bdbc131)
+
+## Box plot:
+![274194030-2e42e214-7ed5-4096-b7d8-9405ff76333e](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/a0f796d7-383a-45d2-a600-42192b7a2a4c)
+
+## Dist plot:
+![274194062-c26eec48-6d62-419b-9fe1-4fe33c976092](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/f3c06cdb-8198-4d34-ae47-4d6241d807a5)
+## Corelation coefficient interpretation:
+![274194127-1d18fc4c-00ca-47c5-8e24-dd84a6d009c0](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/dd49e1ad-7d09-4728-b32b-60f02c23823f)
+
+## Heat map:
+![274194173-6eab2754-2c5f-46af-8b00-e1b0ccf0f366](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex-04/assets/119393589/fc219ae6-85a8-4b93-b137-1242cc145e33)
+
+# RESULT:
+Thus we have read the given data and performed the multivariate analysis with different types of plots.
 
 
 
